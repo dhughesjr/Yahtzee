@@ -1,0 +1,9 @@
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojResolveAssemblyReference.cache
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Form1.resources
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Properties.Resources.resources
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.GenerateResource.Cache
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
+c:\users\don\documents\visual studio 2013\Projects\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
